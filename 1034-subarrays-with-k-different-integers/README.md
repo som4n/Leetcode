@@ -6,7 +6,7 @@
 	<li>For example, <code>[1,2,3,1,2]</code> has <code>3</code> different integers: <code>1</code>, <code>2</code>, and <code>3</code>.</li>
 </ul>
 
-<p>A <strong>subarray</strong> is a <strong>contiguous</strong> part of an array.</p>
+<p>A <strong>subarray</strong> is a contiguous part of an array.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
